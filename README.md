@@ -59,7 +59,6 @@ KCJ — 2022.09.22.
 KCJ — 2022.09.23.
 https://developer.roblox.com/en-us/api-reference/function/UserInputService/IsKeyDown
 onlyone — 2022.09.23.
-모두 진실의 방으로요
 songmingyu — 2022.09.23.
 Retrieve NFTs owned by an account
 https://docs.nftport.xyz/docs/nftport/b3A6MjE0MDYzNzM-retrieve-nf-ts-owned-by-an-account
