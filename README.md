@@ -2,6 +2,8 @@
 
 D-Ad is use zkp to targeted advertisement the user's personal data without worrying about leakage, and reward the user.
 
+
+<img width="100%" alt="D-Ad2" src="file:///Users/chayeonghun/Downloads/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-09-07%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.38.42.png">
 <img width="100%" alt="D-Ad1" src="https://user-images.githubusercontent.com/106857741/188826479-9597fd8b-7fd4-44f3-bd1f-c424559b82ae.png">
 <img width="100%" alt="2022-09-07_1 38 18" src="https://user-images.githubusercontent.com/106857741/188826528-c46ab3e3-aca4-423c-ae97-675317016cd2.png">
 
