@@ -27,13 +27,6 @@ Roblox
 Check out 0xCatbox Metaverse Minting Structure. It’s one of the millions of unique, user-generated 3D experiences created on Roblox. 9월19일 9:16
 KCJ — 2022.09.21.
 https://github.com/0xCatBox/EVMOS-MOMENTUM-HACKATHON-2022
-GitHub
-GitHub - 0xCatBox/EVMOS-MOMENTUM-HACKATHON-2022
-Contribute to 0xCatBox/EVMOS-MOMENTUM-HACKATHON-2022 development by creating an account on GitHub.
-GitHub - 0xCatBox/EVMOS-MOMENTUM-HACKATHON-2022
-KCJ — 2022.09.21.
-@onlyone 재경님 지황님이 보내신 초대링크 눌러주셔야 합니다
-KCJ — 2022.09.21.
 We see a lot of news these days highlighting blockchain and metaverse. In this context, we know that each blockchain network either competes or cooperates to scale each other up. We focus on leveraging an existing platform as one of the ways to expand the existing chain network. We want to experiment with the scalability of EVMOS through Roblox, one of the giant metaverses.
 onlyone — 2022.09.21.
 찬님
